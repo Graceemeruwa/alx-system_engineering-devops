@@ -11,3 +11,4 @@ divide_and_rule
 love_exponent_breath
 binary_to_decimal
 combinations
+print_float
