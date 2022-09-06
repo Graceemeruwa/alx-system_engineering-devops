@@ -12,3 +12,4 @@ love_exponent_breath
 binary_to_decimal
 combinations
 print_float
+decimal_to_hexadecimal
