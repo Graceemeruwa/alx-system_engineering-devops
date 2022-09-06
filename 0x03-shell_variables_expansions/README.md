@@ -9,3 +9,4 @@ create_global_variables
 true_knowledge
 divide_and_rule
 love_exponent_breath
+binary_to_decimal
