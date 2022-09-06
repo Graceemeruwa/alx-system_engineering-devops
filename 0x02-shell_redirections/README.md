@@ -1,2 +1,3 @@
 hellofile
 twofiles
+lastlines
