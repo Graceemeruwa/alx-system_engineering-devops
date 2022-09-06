@@ -12,3 +12,4 @@ newest_files
 findthatword
 countthatword
 hidethisword
+letteronly
