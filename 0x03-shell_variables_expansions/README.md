@@ -14,3 +14,4 @@ combinations
 print_float
 decimal_to_hexadecimal
 rot13
+odd
