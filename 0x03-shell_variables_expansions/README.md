@@ -7,3 +7,4 @@ local_variables
 create_local_variable
 create_global_variables
 true_knowledge
+divide_and_rule
