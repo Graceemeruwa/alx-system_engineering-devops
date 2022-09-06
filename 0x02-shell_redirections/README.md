@@ -13,3 +13,4 @@ findthatword
 countthatword
 hidethisword
 letteronly
+AZA
