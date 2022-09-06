@@ -8,3 +8,4 @@ cwd_state
 duplicate_last_line
 no_more_js
 directories
+newest_files
