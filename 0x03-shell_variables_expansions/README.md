@@ -6,3 +6,4 @@ global_variables
 local_variables
 create_local_variable
 create_global_variables
+true_knowledge
