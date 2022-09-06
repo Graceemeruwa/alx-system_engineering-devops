@@ -5,3 +5,4 @@ firstlines
 third_line
 file
 cwd_state
+duplicate_last_line
