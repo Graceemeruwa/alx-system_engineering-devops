@@ -4,3 +4,4 @@ path
 path
 global_variables
 local_variables
+create_local_variable
