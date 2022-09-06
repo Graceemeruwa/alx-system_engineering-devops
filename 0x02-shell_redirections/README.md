@@ -10,3 +10,4 @@ no_more_js
 directories
 newest_files
 findthatword
+countthatword
