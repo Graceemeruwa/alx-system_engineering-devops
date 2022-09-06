@@ -11,3 +11,4 @@ directories
 newest_files
 findthatword
 countthatword
+hidethisword
